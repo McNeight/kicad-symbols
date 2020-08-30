@@ -435,6 +435,30 @@ K rs232 uart transceiver line-driver
 F http://www.ti.com/lit/ds/symlink/max202.pdf
 $ENDCMP
 #
+$CMP MAX203CPP
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, 0°C to 70°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX200-MAX213.pdf
+$ENDCMP
+#
+$CMP MAX203CWP
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, 0°C to 70°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX200-MAX213.pdf
+$ENDCMP
+#
+$CMP MAX203EPP
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, -40°C to 85°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX200-MAX213.pdf
+$ENDCMP
+#
+$CMP MAX203EWP
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, -40°C to 85°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX200-MAX213.pdf
+$ENDCMP
+#
 $CMP MAX232
 D Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C
 K rs232 uart transceiver line-driver
@@ -445,6 +469,42 @@ $CMP MAX232I
 D Dual RS232 driver/receiver, 5V supply, 120kb/s, -40C-80C
 K rs232 uart transceiver line-driver
 F http://www.ti.com/lit/ds/symlink/max232.pdf
+$ENDCMP
+#
+$CMP MAX233ACPP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, 0°C to 70°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX233ACWP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, 0°C to 70°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX233AEPP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, -40°C to 85°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX233AEWP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, -40°C to 85°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX233CPP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, 0°C to 70°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+$CMP MAX233EPP+
+D Dual RS-232 driver/receiver, 5V supply, 120kb/s, -40°C to 85°C
+K rs232 uart transceiver line-driver
+F https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
 $ENDCMP
 #
 $CMP MAX3051
